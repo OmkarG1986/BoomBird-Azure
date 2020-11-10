@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-26T09:46:16.784Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="nXKMqHX0AvSDOQdXV0Jh" version="13.8.1" type="github" pages="2">
+<mxfile modified="2020-11-10T09:37:52.123Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="1QzYk4nxiUvjkCsvu9cO" version="13.8.1" type="github" pages="2">
   <diagram id="YOWaaKNcW8TxCV01Voe9" name="Azure Deployment Architecture">
-    <mxGraphModel dx="2221" dy="486" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="537" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="M06deS8VlxeRnnj21vpx-0" />
         <mxCell id="M06deS8VlxeRnnj21vpx-1" parent="M06deS8VlxeRnnj21vpx-0" />
@@ -758,9 +758,6 @@
             <mxPoint x="126" y="-126" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M06deS8VlxeRnnj21vpx-101" value="&lt;b&gt;Data Tier&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" parent="M06deS8VlxeRnnj21vpx-1" vertex="1">
-          <mxGeometry x="1296" y="318" width="66" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="c9dbxnKEnpcJmh8SeUsM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=12;fontColor=#333333;strokeColor=#007FFF;" edge="1" parent="M06deS8VlxeRnnj21vpx-1" source="c9dbxnKEnpcJmh8SeUsM-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="805.9999999999995" y="292.8320000000001" as="targetPoint" />
@@ -864,6 +861,9 @@
         </mxCell>
         <mxCell id="c9dbxnKEnpcJmh8SeUsM-33" value="&lt;b&gt;Data Tier&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="M06deS8VlxeRnnj21vpx-1">
           <mxGeometry x="1032" y="204" width="66" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="aGTyVLxxf8MR7dofbakp-0" value="Omkar Sonawane&lt;br&gt;Cloud Architect, APAC" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;fontSize=20;fontStyle=1;fontColor=#4D4D4D;textDirection=ltr;textOpacity=50;" vertex="1" parent="M06deS8VlxeRnnj21vpx-1">
+          <mxGeometry x="-816" y="1040" width="228" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
